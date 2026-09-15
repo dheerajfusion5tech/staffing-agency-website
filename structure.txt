@@ -1,0 +1,47 @@
+.cta.json
+.gitignore
+bun.lock
+netlify.toml
+package.json
+project-notes.md
+README.md
+tsconfig.json
+tsr.config.json
+vite.config.ts
+
+.vscode
+Folder PATH listing
+Volume serial number is 7478-274D
+C:\USERS\ADMIN\DOWNLOADS\VS-CODE\KT-JULY-MONTH\STAFFING-AGENCY-WEBSITE\.VSCODE
+    settings.json
+    
+No subfolders exist 
+
+src
+Folder PATH listing
+Volume serial number is 7478-274D
+C:\USERS\ADMIN\DOWNLOADS\VS-CODE\KT-JULY-MONTH\STAFFING-AGENCY-WEBSITE\SRC
+|   router.tsx
+|   routeTree.gen.ts
+|   styles.css
+|   
++---components
+|       Footer.tsx
+|       Header.tsx
+|       ThemeToggle.tsx
+|       
++---data
+|       jobs.ts
+|       
++---lib
+|       utils.ts
+|       
+\---routes
+        contact.tsx
+        employers.tsx
+        index.tsx
+        jobs.tsx
+        project-notes.tsx
+        services.tsx
+        __root.tsx
+        
